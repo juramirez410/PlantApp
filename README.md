@@ -1,1 +1,1 @@
-# PlantApp
+# coding-project-template
